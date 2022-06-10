@@ -1,4 +1,4 @@
-# Comexp_test-assignment
+# test_assignment
 Тестовое задание.
 
 Описание файлов:
